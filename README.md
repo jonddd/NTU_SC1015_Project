@@ -4,9 +4,9 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science And Artificial Intelligence) which focuses on. For detailed walkthrough, please view the source code in order from:
 
 ## Contributors
-*@ericaleee -
-*@jonddd -
-*@Kaioru -
+* @ericaleee - <br>
+* @jonddd - <br>
+* @Kaioru - <br>
 
 ## Problem Statement
 * To what extent does family background affect a student’s academic performance?
