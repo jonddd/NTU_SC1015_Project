@@ -41,3 +41,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science And Artificial I
 ## References
 * https://www.mygreatlearning.com/blog/gridsearchcv/
 * https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/ 
+* https://www.ibm.com/topics/neural-networks 
+* https://towardsdatascience.com/smote-fdce2f605729
+* https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
+* https://www.kaggle.com/code/aaryandhore/neural-network-gridsearchcv-explanations/notebook
+* https://scikit-learn.org/stable/modules/tree.html 
