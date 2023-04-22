@@ -1,7 +1,7 @@
 # NTU_SC1015_Project
 
 ## About
-This is a Mini-Project for SC1015 (Introduction to Data Science And Artificial Intelligence) which focuses on. For detailed walkthrough, please view the source code in order from: <br>
+This is a Mini-Project for SC1015 (Introduction to Data Science And Artificial Intelligence) which focuses on a Student's Academic Performance. For detailed walkthrough, please view the source code in order from: <br>
 1. Data Extraction
 2. Data Visualisation
 3. Clustering Patterns
